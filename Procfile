@@ -1,1 +1,1 @@
-worker: python 15th november.py
+worker: 15th november.py
