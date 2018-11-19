@@ -2,7 +2,6 @@ discord
 asyncio
 
 time
-random
 osdate
 time
 os.pathshutil
