@@ -6324,4 +6324,4 @@ async def on_message(message):
             
 
 
-bot.run(os.environ['BOT_TOKEN'])
+client.run(os.environ['BOT_TOKEN'])
